@@ -5,6 +5,7 @@ Hello MBUSA Team! My name is Brian and I am on the CMG + MBUSA project and will 
 on what this folder encompasses.
 
 ----- Datasets -----
+
 SF Vehicle Registrations ("registrations.csv")
   - downloaded from the California Energy Commission
   - includes 'Registration Year', 'Quarter', 'Fuel Type', 'Zip Code', and 'Number of Vehicles Sold'
@@ -16,6 +17,7 @@ SF EV Charging Stations ("sfstations.csv")
   - Used to generate heat maps of where EV vehicles were being registered the most
 
 ----- stationsQuery.py -----
+
 This file contains:
 1. API Key
 2. Base URL for API Query
