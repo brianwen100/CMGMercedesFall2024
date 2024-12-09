@@ -28,6 +28,7 @@ What does it do?
     namely "sfstations.csv"
 
 ----- Visualizer.py -----
+
 This file contains:
 1. Function for generating map
 
@@ -52,5 +53,6 @@ Steps:
     where this file resides
 
 ----- Dependencies -----
+
 pip install pandas, matplotlib, foliium
     
